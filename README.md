@@ -9,3 +9,8 @@ Newbie-VM.exe File.noob
 Wiki: [OP_GET_TO_THE_WIKI](https://github.com/Ameterius/newbie-vm/wiki)
 
 Stupid (but working) example: [OP_GET_STUPID_EXAMPLE](https://github.com/Ameterius/newbie-vm/blob/main/example.noob)
+
+---
+
+> Because I'm very motivated to make it +- usable, made a separate [branch](https://github.com/Ameterius/newbie-vm/tree/for-study-0.5) to separate the first version out\
+> -- Ametero
