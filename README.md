@@ -14,3 +14,7 @@ Stupid (but working) example: [OP_GET_STUPID_EXAMPLE](https://github.com/Ameteri
 
 > Because I'm very motivated to make it +- usable, made a separate [branch](https://github.com/Ameterius/newbie-vm/tree/for-study-0.5) to separate the first version out\
 > -- Ametero
+
+---
+> New repo: https://github.com/Newbie-Foundation/Newbie-Interpreter (Private for while)
+> -- Ametero
