@@ -16,5 +16,5 @@ Stupid (but working) example: [OP_GET_STUPID_EXAMPLE](https://github.com/Ameteri
 > -- Ametero
 
 ---
-> New repo: https://github.com/Newbie-Foundation/Newbie-Interpreter (Private for while)
+> New repo: https://github.com/Newbie-Foundation/Newbie-Interpreter (Private for while)\
 > -- Ametero
