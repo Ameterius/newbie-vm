@@ -17,4 +17,5 @@ Stupid (but working) example: [OP_GET_STUPID_EXAMPLE](https://github.com/Ameteri
 
 ---
 > New repo: https://github.com/Newbie-Foundation/Newbie-Interpreter (Private for while)\
+> UnConceptual interpreter: https://github.com/Newbie-Foundation/Newbie-Language-UnConcept \
 > -- Ametero
